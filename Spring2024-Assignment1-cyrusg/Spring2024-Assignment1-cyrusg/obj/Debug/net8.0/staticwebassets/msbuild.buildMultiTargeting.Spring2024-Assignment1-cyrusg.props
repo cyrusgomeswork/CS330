@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Spring2024-Assignment1-cyrusg.props" />
+</Project>
