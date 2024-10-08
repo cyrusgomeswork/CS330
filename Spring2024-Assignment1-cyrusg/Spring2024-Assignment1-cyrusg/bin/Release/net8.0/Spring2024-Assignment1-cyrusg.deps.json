@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Spring2024-Assignment1-cyrusg/1.0.0": {
+        "runtime": {
+          "Spring2024-Assignment1-cyrusg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Spring2024-Assignment1-cyrusg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

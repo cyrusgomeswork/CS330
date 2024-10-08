@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spring2024-Assignment1-cyrusg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ee06734a8f4ae10478472ffddf3e34bcc6e1f7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spring2024-Assignment1-cyrusg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spring2024-Assignment1-cyrusg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

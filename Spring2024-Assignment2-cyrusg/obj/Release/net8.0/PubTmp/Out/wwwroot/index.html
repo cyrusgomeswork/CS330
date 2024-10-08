@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Master</title>
+
+    <!-- Include jQuery and jQuery UI with correct SRI hashes -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" integrity="sha384-Dziy8F2VlJQLMShA6FHWNul/veM9bCkRUaLqr199K94ntO5QUrLJBEbYegdSkkqX" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" integrity="sha384-xewr6kSkq3dBbEtB6Z/3oFZmknWn7nHqhLVLrYgzEFRbU/DHSxW7K3B44yWUN60D" crossorigin="anonymous">
+
+    <!-- Link to your custom CSS file -->
+    <link rel="stylesheet" href="css/styles.css">
+
+    <!-- Link to your custom JavaScript file -->
+    <script src="js/script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1 id="searchEngineName">Search Master</h1>
+    </header>
+
+    <!-- Search input and buttons -->
+    <div class="search-box">
+        <input type="text" id="query" placeholder="Enter your search query">
+        <button id="searchButton">Search</button>
+        <button id="timeButton">Show Current Time</button>
+        <button id="luckyButton">I'm Feeling Lucky</button>
+    </div>
+
+    <!-- Divs for results and time -->
+    <div id="searchResults"></div>
+    <div id="time"></div>
+</body>
+</html>

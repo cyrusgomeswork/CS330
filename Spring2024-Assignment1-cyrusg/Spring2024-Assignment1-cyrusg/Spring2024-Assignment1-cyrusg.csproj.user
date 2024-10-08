@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\cyrus\source\repos\CS330\Spring2024-Assignment1-cyrusg\Spring2024-Assignment1-cyrusg\Properties\PublishProfiles\Spring2024-Assignment1-cyrusg20240923145153 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,41 @@
+/* Set the background to an Unsplash image */
+body {
+    background-image: url('https://unsplash.com/photos/lego-spongebob-and-patrick-toys-Ox-x45IaxSA');
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, sans-serif;
+    color: white;
+    text-align: center;
+}
+
+header {
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.search-box {
+    margin-top: 30px;
+}
+
+input[type="text"] {
+    padding: 15px;
+    font-size: 16px;
+    width: 300px;
+}
+
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Hide the results and time divs initially */
+#searchResults, #time {
+    visibility: hidden;
+    margin-top: 20px;
+}
+
+#searchEngineName {
+    cursor: pointer;  /* Ensure it looks clickable */
+}

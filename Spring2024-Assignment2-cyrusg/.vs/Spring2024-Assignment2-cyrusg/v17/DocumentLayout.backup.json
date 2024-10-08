@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Fall2024-Assignment2-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment2-cyrusg\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Fall2024-Assignment2-cyrusg.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Spring2024-Assignment2-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment2-cyrusg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Spring2024-Assignment2-cyrusg.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Fall2024-Assignment2-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment2-cyrusg\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Fall2024-Assignment2-cyrusg.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Fall2024-Assignment2-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment2-cyrusg\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F5881A82-3EE3-4AE2-9F8C-718F71F74F6E}|Fall2024-Assignment2-cyrusg.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "wwwroot\\css\\styles.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-07T23:51:56.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-07T23:51:43.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-07T23:23:14.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment2-cyrusg\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T12:45:49.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

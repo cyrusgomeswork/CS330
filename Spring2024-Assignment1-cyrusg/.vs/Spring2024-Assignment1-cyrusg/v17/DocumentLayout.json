@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\",
+  "WorkspaceRootPath": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|solutionrelative:spring2024-assignment1-cyrusg\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|solutionrelative:spring2024-assignment1-cyrusg\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|solutionrelative:spring2024-assignment1-cyrusg\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\spring2024-assignment1-cyrusg\\spring2024-assignment1-cyrusg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1F0CC84-52B1-478E-B90F-C39A5720F24C}|Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg.csproj|solutionrelative:spring2024-assignment1-cyrusg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "script.js",
-              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\script.js",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\script.js",
               "RelativeDocumentMoniker": "Spring2024-Assignment1-cyrusg\\wwwroot\\script.js",
-              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\script.js",
               "RelativeToolTip": "Spring2024-Assignment1-cyrusg\\wwwroot\\script.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\style.css",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\style.css",
               "RelativeDocumentMoniker": "Spring2024-Assignment1-cyrusg\\wwwroot\\style.css",
-              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\style.css",
               "RelativeToolTip": "Spring2024-Assignment1-cyrusg\\wwwroot\\style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "Spring2024-Assignment1-cyrusg\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\wwwroot\\index.html",
               "RelativeToolTip": "Spring2024-Assignment1-cyrusg\\wwwroot\\index.html",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\Program.cs",
               "RelativeDocumentMoniker": "Spring2024-Assignment1-cyrusg\\Program.cs",
-              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\Program.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Spring2024-Assignment1-cyrusg\\Spring2024-Assignment1-cyrusg\\Program.cs",
               "RelativeToolTip": "Spring2024-Assignment1-cyrusg\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

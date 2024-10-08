@@ -1,0 +1,119 @@
+﻿/* Basic reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1d1f21; /* Dark background */
+    color: #ffffff; /* Light text for contrast */
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Main container styling */
+.container {
+    background-color: #2c2f33;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 90%;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Title */
+#Title {
+    font-size: 3em;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* CoverArt (Rounded image) */
+#CoverArt {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* Circular image */
+    margin-bottom: 20px;
+    border: 5px solid #f39c12;
+}
+
+/* Rating styling */
+#Rating {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    color: #f39c12; /* Orange color */
+}
+
+/* Trailer iframe */
+#Trailer {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* Summary paragraph */
+#Summary {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+    width: 100%;
+    line-height: 1.6;
+}
+
+/* Actors list */
+#Actors {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+#Actors li {
+    font-size: 1.2em;
+    margin-bottom: 5px;
+}
+
+/* IMDB Link styling */
+a.imdb-link {
+    color: #f39c12; /* Orange color */
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #23272a;
+    border-radius: 5px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+}
+
+/* Hover effect on link */
+a.imdb-link:hover {
+    background-color: #f39c12;
+    color: #1d1f21;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+    #Trailer {
+        height: auto;
+    }
+
+    #CoverArt {
+        width: 150px;
+        height: 150px;
+    }
+
+    .container {
+        padding: 20px;
+    }
+}
