@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\fall2024-assignment3-chgomes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:fall2024-assignment3-chgomes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\actor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\actor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\actor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\actor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\actor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\actor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\actor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\actor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\actor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movieactor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movieactor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movieactor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movieactor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movieactor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movieactor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movieactor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movieactor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movieactor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movieactor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movie\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movie\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movie\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\models\\moviedetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:models\\moviedetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:models\\movieactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:controllers\\actorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\models\\actordetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:models\\actordetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:models\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\controllers\\movieactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:controllers\\movieactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cyrus\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-Fall2024_Assignment3_chgomes-53674e37-0d24-4757-9e4c-7e17e6030c7d\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|c:\\users\\cyrus\\source\\repos\\cs330\\fall2024-assignment3-chgomes(3)\\fall2024-assignment3-chgomes\\data\\migrations\\20241023225305_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08F380E7-244B-44DC-A708-0EEABE599D1D}|Fall2024-Assignment3-chgomes.csproj|solutionrelative:data\\migrations\\20241023225305_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "Services\\Services.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Services\\Services.cs",
+              "RelativeToolTip": "Services\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:11:25.406Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAQBAAAAAAAAAAArwBIBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T03:59:16.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAASwPQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:52:07.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fall2024-Assignment3-chgomes",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Fall2024-Assignment3-chgomes.csproj",
+              "RelativeDocumentMoniker": "Fall2024-Assignment3-chgomes.csproj",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Fall2024-Assignment3-chgomes.csproj*",
+              "RelativeToolTip": "Fall2024-Assignment3-chgomes.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T03:39:49.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.Shared.targets",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAIwNQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-29T04:01:18.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAMQDAAAAAAAAAAArwNIDAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T03:59:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAAL8DAAAAAAAAAAArwM0DAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T03:59:14.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Actor\\Edit.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:54:33.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Details.cshtml",
+              "RelativeToolTip": "Views\\Actor\\Details.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T01:08:55.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T03:30:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Create.cshtml",
+              "RelativeToolTip": "Views\\Actor\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:56:23.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Actor\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:29:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Actor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Actor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Actor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T01:17:03.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Create.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:26:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Delete.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:26:05.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Index.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:24:27.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Edit.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:25:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:53:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:53:29.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T00:57:40.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:53:27.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MovieActor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\MovieActor\\Details.cshtml",
+              "RelativeToolTip": "Views\\MovieActor\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:25:39.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T20:21:52.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:55:02.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T01:10:13.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Delete.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:27:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T22:56:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieDetailsView.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\MovieDetailsView.cs",
+              "RelativeDocumentMoniker": "Models\\MovieDetailsView.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\MovieDetailsView.cs",
+              "RelativeToolTip": "Models\\MovieDetailsView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:21:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MovieActor.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\MovieActor.cs",
+              "RelativeDocumentMoniker": "Models\\MovieActor.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\MovieActor.cs",
+              "RelativeToolTip": "Models\\MovieActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:48:27.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActorController.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Controllers\\ActorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ActorController.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Controllers\\ActorController.cs",
+              "RelativeToolTip": "Controllers\\ActorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:51:11.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T02:48:46.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:48:08.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ActorDetailsView.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\ActorDetailsView.cs",
+              "RelativeDocumentMoniker": "Models\\ActorDetailsView.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\ActorDetailsView.cs",
+              "RelativeToolTip": "Models\\ActorDetailsView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T21:19:24.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\Actor.cs",
+              "RelativeDocumentMoniker": "Models\\Actor.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Models\\Actor.cs",
+              "RelativeToolTip": "Models\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:46:48.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MovieActorController.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Controllers\\MovieActorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieActorController.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Controllers\\MovieActorController.cs",
+              "RelativeToolTip": "Controllers\\MovieActorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA4wK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:52:36.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\cyrus\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-Fall2024_Assignment3_chgomes-53674e37-0d24-4757-9e4c-7e17e6030c7d\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-Fall2024_Assignment3_chgomes-53674e37-0d24-4757-9e4c-7e17e6030c7d\\secrets.json",
+              "ToolTip": "C:\\Users\\cyrus\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-Fall2024_Assignment3_chgomes-53674e37-0d24-4757-9e4c-7e17e6030c7d\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-Fall2024_Assignment3_chgomes-53674e37-0d24-4757-9e4c-7e17e6030c7d\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T00:48:12.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241023225305_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Data\\Migrations\\20241023225305_initialCreate.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241023225305_initialCreate.cs",
+              "ToolTip": "C:\\Users\\cyrus\\source\\repos\\CS330\\Fall2024-Assignment3-chgomes(3)\\Fall2024-Assignment3-chgomes\\Data\\Migrations\\20241023225305_initialCreate.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241023225305_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:53:06.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

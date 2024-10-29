@@ -1,0 +1,88 @@
+﻿@model Fall2024_Assignment3_chgomes.Models.ActorDetailsView
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 style="color: #2c3e50;">Details</h1>
+
+<div>
+    <h4 style="color: #2980b9;">Actor</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2" style="color: #8e44ad;">
+            @Html.DisplayNameFor(model => model.Actor.Name)
+        </dt>
+        <dd class="col-sm-10" style="color: #34495e;">
+            @Html.DisplayFor(model => model.Actor.Name)
+        </dd>
+        <dt class="col-sm-2" style="color: #8e44ad;">
+            @Html.DisplayNameFor(model => model.Actor.Gender)
+        </dt>
+        <dd class="col-sm-10" style="color: #34495e;">
+            @Html.DisplayFor(model => model.Actor.Gender)
+        </dd>
+        <dt class="col-sm-2" style="color: #8e44ad;">
+            @Html.DisplayNameFor(model => model.Actor.Age)
+        </dt>
+        <dd class="col-sm-10" style="color: #34495e;">
+            @Html.DisplayFor(model => model.Actor.Age)
+        </dd>
+        <dt class="col-sm-2" style="color: #8e44ad;">
+            @Html.DisplayNameFor(model => model.Actor.Imdb)
+        </dt>
+        <dd class="col-sm-10" style="color: #34495e;">
+            @Html.DisplayFor(model => model.Actor.Imdb)
+        </dd>
+        <dt class="col-sm-2" style="color: #8e44ad;">
+            @Html.DisplayNameFor(model => model.Actor.Photo)
+        </dt>
+        <dd class="col-sm-10">
+            @if (Model.Actor.Photo != null)
+            {
+                <img src="data:image/jpeg;base64,@Convert.ToBase64String(Model.Actor.Photo)" alt="Student Photo" style="max-width: 200px; border: 2px solid #2980b9;" />
+            }
+            else
+            {
+                <span style="color: #e74c3c;">No photo available</span>
+            }
+        </dd>
+    </dl>
+</div>
+
+<h3 style="color: #27ae60;">Recent Tweets About @Model.Actor.Name</h3>
+<h4 style="color: #16a085;">Average Sentiment: @Model.AverageSentiment</h4>
+
+<table class="table table-striped">  
+   <thead style="background-color: #34495e; color: white;">  
+       <tr>  
+           <th>Username</th>  
+           <th>Tweet</th>  
+           <th>Sentiment</th>  
+       </tr>
+   </thead>
+   <tbody>
+    @foreach (var tweet in Model.TweetWithSentiment)
+    {  
+       <tr>  
+           <td>@tweet.Username</td>  
+           <td>@tweet.Tweet</td>  
+           <td>@tweet.Sentiment</td>  
+       </tr>  
+   }  
+   </tbody>
+</table>
+
+<h3 style="color: #27ae60;">Movies:</h3>
+
+<ul style="color: #34495e;">
+    @foreach (var movie in Model.Movies)
+    {
+        <li>@movie.Title</li>
+    }
+</ul>
+
+<div>  
+   <a asp-action="Edit" asp-route-id="@Model.Actor?.Id" class="btn btn-primary">Edit</a> |  
+   <a asp-action="Index" class="btn btn-secondary">Back to List</a>  
+</div>

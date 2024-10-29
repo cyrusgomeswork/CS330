@@ -1,0 +1,30 @@
+﻿@model Fall2024_Assignment3_chgomes.Models.MovieActor
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 style="color: #2c3e50;">Details</h1>
+
+<div style="background-color: #ecf0f1; padding: 20px; border-radius: 10px;">
+    <h4 style="color: #2980b9;">MovieActor</h4>
+    <hr style="border-top: 1px solid #2980b9;" />
+    <dl class="row">
+        <dt class="col-sm-2" style="color: #34495e;">
+            @Html.DisplayNameFor(model => model.Movie)
+        </dt>
+        <dd class="col-sm-10" style="color: #7f8c8d;">
+            @Html.DisplayFor(model => model.Movie.Id)
+        </dd>
+        <dt class="col-sm-2" style="color: #34495e;">
+            @Html.DisplayNameFor(model => model.Actor)
+        </dt>
+        <dd class="col-sm-10" style="color: #7f8c8d;">
+            @Html.DisplayFor(model => model.Actor.Id)
+        </dd>
+    </dl>
+</div>
+<div style="margin-top: 20px;">
+    <a asp-action="Edit" asp-route-id="@Model?.Id" style="color: #e74c3c;">Edit</a> |
+    <a asp-action="Index" style="color: #3498db;">Back to List</a>
+</div>

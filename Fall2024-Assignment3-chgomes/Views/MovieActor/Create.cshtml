@@ -1,0 +1,36 @@
+﻿@model Fall2024_Assignment3_chgomes.Models.MovieActor
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="text-primary">Create</h1>
+
+<h4 class="text-info">MovieActor</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MovieId" class="control-label text-success"></label>
+                <select asp-for="MovieId" class="form-control border-primary" asp-items="ViewBag.MovieId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ActorId" class="control-label text-success"></label>
+                <select asp-for="ActorId" class="form-control border-primary" asp-items="ViewBag.ActorId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
